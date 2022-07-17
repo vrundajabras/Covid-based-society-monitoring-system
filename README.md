@@ -1,0 +1,2 @@
+# Covid-based-society-monitoring-system
+This project relies on a combination of IoT with ML. Its scope also depends on computer networking, website designing, artificial intelligence, and problem-solving. It uses knowledge in neural networks learned in artificial intelligence, server connections and terminologies learn in computer networks and systems, database monitoring, and sensor testing in electronic system design. The technology used in this system covers every part of the electronics and computer curriculum. 
